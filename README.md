@@ -3,9 +3,9 @@
 Technical Marketing Engineer — service provider networking
 (Junos / EVO, MEF Carrier Ethernet, SRv6, EVPN, MPLS, QoS).
 
-[![JVD Portal](https://img.shields.io/badge/JVD-Portal-2ea44f?style=flat-square)](https://juniper.github.io/jvd/portal/)
-[![Repo](https://img.shields.io/badge/GitHub-Juniper%2Fjvd-24292e?style=flat-square&logo=github)](https://github.com/Juniper/jvd)
-[![Docs](https://img.shields.io/badge/Docs-Validated%20Designs-0a75c2?style=flat-square)](https://www.juniper.net/documentation/validated-designs/)
+[![JVD Portal](https://img.shields.io/badge/JVD-Portal-238636?style=flat-square&labelColor=0D1117)](https://juniper.github.io/jvd/portal/)
+[![Repo](https://img.shields.io/badge/GitHub-Juniper%2Fjvd-1F6FEB?style=flat-square&labelColor=0D1117&logo=github&logoColor=white)](https://github.com/Juniper/jvd)
+[![Docs](https://img.shields.io/badge/Docs-Validated%20Designs-8957E5?style=flat-square&labelColor=0D1117)](https://www.juniper.net/documentation/validated-designs/)
 
 ## Resources
 
