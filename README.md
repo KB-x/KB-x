@@ -16,6 +16,17 @@ Principal Technical Marketing Engineer — service provider networking
 - **JVD documentation** — published design guides:
   <https://www.juniper.net/documentation/validated-designs/>
 
+## Service Provider JVDs (led / co-authored)
+
+Most of the service provider validated designs, including:
+
+- [Metro Ethernet Business Services](https://github.com/Juniper/jvd/tree/main/service_provider/metro_ethernet_business_services)
+- [Metro-as-a-Service](https://github.com/Juniper/jvd/tree/main/service_provider/metro_as_a_service)
+- [Broadband Edge](https://github.com/Juniper/jvd/tree/main/service_provider/broadband_edge)
+- [SRv6 Core/Edge](https://github.com/Juniper/jvd/tree/main/service_provider/srv6_core_edge)
+- [Low Latency Queueing](https://github.com/Juniper/jvd/tree/main/service_provider/low_latency_queueing)
+
+
 ## Writing
 
 <!-- Technical blog posts and articles. Add links as they publish. -->
@@ -24,7 +35,9 @@ _Coming soon._
 
 ## Focus areas
 
-- Metro Ethernet — MEF services, EVPN, business services
-- Broadband Edge — subscriber management, BNG
-- Core/edge transport — SRv6, MPLS, QoS
+- Cloud Metro, Carrier Ethernet — business services, MEF, EVPN
+- Core/edge transport — Segment Routing MPLS, SRv6, RSVP, LDP, Traffic Engineering
+- Class of Service, network slicing, low latency
+- Broadband/subscriber edge — BNG, subscriber management
+- Network resiliency and high availability
 - Config automation and validation tooling
