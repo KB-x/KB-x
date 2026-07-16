@@ -1,7 +1,7 @@
 # KB-x
 
-Technical Marketing Engineer — service provider and data center networking
-(Junos / EVO, EVPN-VXLAN, MEF Carrier Ethernet, SRv6, Apstra).
+Technical Marketing Engineer — service provider networking
+(Junos / EVO, MEF Carrier Ethernet, SRv6, EVPN, MPLS, QoS).
 
 [![JVD Portal](https://img.shields.io/badge/JVD-Portal-2ea44f?style=flat-square)](https://juniper.github.io/jvd/portal/)
 [![Repo](https://img.shields.io/badge/GitHub-Juniper%2Fjvd-24292e?style=flat-square&logo=github)](https://github.com/Juniper/jvd)
@@ -24,6 +24,7 @@ _Coming soon._
 
 ## Focus areas
 
-- Service provider edge — Metro Ethernet, Broadband Edge, SRv6, QoS
-- Data center — EVPN-VXLAN fabrics, Apstra, AI/ML backend networks
+- Metro Ethernet — MEF services, EVPN, business services
+- Broadband Edge — subscriber management, BNG
+- Core/edge transport — SRv6, MPLS, QoS
 - Config automation and validation tooling
