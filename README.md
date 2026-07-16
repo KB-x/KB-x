@@ -9,22 +9,13 @@ Principal Technical Marketing Engineer — service provider networking
 
 ## Resources
 
-- **JVD Portal** — browsable design catalog and configuration tooling:
+- **JVD Portal** — design catalog and configuration tooling I built and maintain:
   <https://juniper.github.io/jvd/portal/>
-- **Juniper Validated Designs (JVD)** — reference architectures, tested
-  configurations, and design guides: <https://github.com/Juniper/jvd>
-- **JVD documentation** — published design guides:
-  <https://www.juniper.net/documentation/validated-designs/>
-
-## Service Provider JVDs (led / co-authored)
-
-Most of the service provider validated designs, including:
-
-- [Metro Ethernet Business Services](https://github.com/Juniper/jvd/tree/main/service_provider/metro_ethernet_business_services)
-- [Metro-as-a-Service](https://github.com/Juniper/jvd/tree/main/service_provider/metro_as_a_service)
-- [Broadband Edge](https://github.com/Juniper/jvd/tree/main/service_provider/broadband_edge)
-- [SRv6 Core/Edge](https://github.com/Juniper/jvd/tree/main/service_provider/srv6_core_edge)
-- [Low Latency Queueing](https://github.com/Juniper/jvd/tree/main/service_provider/low_latency_queueing)
+- **Juniper Validated Designs (JVD)** — the public repo I created and maintain
+  (reference architectures, tested configurations, design guides):
+  <https://github.com/Juniper/jvd>
+- **JVD documentation — Service Provider Edge** — published design guides:
+  <https://www.juniper.net/documentation/validated-designs/us/en/service-provider-edge/>
 
 
 ## Writing
