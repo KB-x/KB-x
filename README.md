@@ -1,6 +1,6 @@
 # KB-x
 
-Technical Marketing Engineer — service provider networking
+Principal Technical Marketing Engineer — service provider networking
 (Junos / EVO, MEF Carrier Ethernet, SRv6, EVPN, MPLS, QoS).
 
 [![JVD Portal](https://img.shields.io/badge/JVD-Portal-238636?style=flat-square&labelColor=0D1117)](https://juniper.github.io/jvd/portal/)
